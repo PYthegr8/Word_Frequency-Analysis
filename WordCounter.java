@@ -1,8 +1,5 @@
 /*
 file name:      WordCounter.java
-Authors:        Ike Lage
-last modified:  10/21/2023
-
 How to run:     java WordCounter
 */
 
